@@ -1,5 +1,6 @@
 # github-practice
 
+HELLO FALL 2020!!!
 Practice using Git &amp; Github
 
 * Fork a version of this repository to your Github account
